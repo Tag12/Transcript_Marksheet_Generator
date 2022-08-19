@@ -1,5 +1,3 @@
-# Marksheet_Transcript
-![1](https://user-images.githubusercontent.com/56336812/147088020-89b98080-25e9-4b5e-82c9-0710890156d3.jpeg)
 
 # Marksheet Generator
 <img width="1440" alt="Screenshot 2021-12-20 at 1 08 33 PM" src="https://user-images.githubusercontent.com/56336812/147088258-7b2bac32-9f11-495e-bac5-29f4381ff9d4.png">
